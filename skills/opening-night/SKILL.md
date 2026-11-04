@@ -4,7 +4,7 @@ description: Puts one process together as a solution — the way of working, the
 license: MIT
 compatibility: Needs code execution and Node.js 18 or later; nothing to install. Each piece is checked and drawn by its own house-lights skill, so it works fully where the other skills are beside it (the plugin, the npm package); alone, it checks the solution file and lists the pieces. In Claude Code the house-lights mod adds /solution.
 metadata:
-  version: "1.17.0"
+  version: "1.17.1"
 ---
 
 # opening-night: a process, every piece together

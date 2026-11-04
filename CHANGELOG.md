@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.17.1 — 2026-11-04
+
+**house-lights is now DNA** — [ruinosus/dna](https://github.com/ruinosus/dna), 2.0.0. This is the last version here: the
+README and the plugin say where it went; the site redirects there. `/plugin marketplace add ruinosus/dna`,
+`/plugin install dna@dna`, `/plugin uninstall house-lights@house-lights`; npm `@ruinosus/dna`.
+
 ## 1.17.0 — 2026-11-04
 
 The eighth skill: **opening-night**, a process put together as one solution.

@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> **house-lights is now DNA — Domain Notation of Anything: [ruinosus/dna](https://github.com/ruinosus/dna).**
+> The same eight skills, with plain names (visual-explainer, visual-pitch, way-of-working, service-blueprint,
+> incident-drill, agent-review, process-simulation, solution), one notation (`apiVersion`/`kind`) and a business look.
+> Every file you wrote still reads there. In Claude Code: `/plugin marketplace add ruinosus/dna`,
+> `/plugin install dna@dna`, then `/plugin uninstall house-lights@house-lights`. npm: `@ruinosus/dna`.
+> This repository gets no more versions.
+
 <h1 align="center">house-lights</h1>
 
 <p align="center"><b>The lights that come up so everyone can see. Seven skills for Claude that show an idea to people — by
